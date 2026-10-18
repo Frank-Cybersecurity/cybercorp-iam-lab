@@ -1,0 +1,15 @@
+# Keep secrets, machine state and raw private exports out of commits
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.vdi
+*.vhd
+*.vhdx
+*.iso
+private/
+raw-exports/
+Thumbs.db
+.DS_Store
