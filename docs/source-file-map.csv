@@ -1,0 +1,54 @@
+Original filename,Repository path,Disposition,SHA256
+01-ATL-DC01-Core-Services-Running.png,evidence/screenshots/01-ATL-DC01-Core-Services-Running.png,Retained original bytes,88d930921b6ea8717623aac0f9fbc73b722623ac85df481e16c93ce713cf6059
+02-Before-Fix-Duplicate-DC-A-Records.png,evidence/screenshots/02-Before-Fix-Duplicate-DC-A-Records.png,Retained original bytes,ddc54d1f66b947bb98bf4503e414c54ea3a8e345d24601a5facb76d9fcd360fd
+03-ATL-DC01-DNS-Resolution-After-Fix.png,evidence/screenshots/03-ATL-DC01-DNS-Resolution-After-Fix.png,Retained original bytes,dbe0f8ee62ab41dd1d2420ff520ac2a48db1ae224f0b33611a04b68cd0e262a5
+04-ATL-DC01-LDAP-SRV-Record.png,evidence/screenshots/04-ATL-DC01-LDAP-SRV-Record.png,Retained original bytes,815af6981bed5dc81e57b10b65249c3129f657726859b38aa8bc224775817069
+05-ATL-DC01-DCDIAG-Results.png,evidence/screenshots/05-ATL-DC01-DCDIAG-Results.png,Retained original bytes,ad9e5bedec257dcca4e884ac603243cdaf6fcb27c325f9f0325e89a3f70c1aa2
+06-ATL-DC01-SYSVOL-NETLOGON-Shares.png,evidence/screenshots/06-ATL-DC01-SYSVOL-NETLOGON-Shares.png,Retained original bytes,99ed5830865fe6e623c0b44fdbb8c5440806e02f4f8179221a7f7aa55525e46e
+07-ATL-DC01-FSMO-Roles.png,evidence/screenshots/07-ATL-DC01-FSMO-Roles.png,Retained original bytes,8bdcce492b44fdba661a835167e68167b5ef532283ec72b03a3cf02cfa9ff42b
+08-ATL-DC01-Global-Catalog.png,evidence/screenshots/08-ATL-DC01-Global-Catalog.png,Retained original bytes,e69e5a2899d411728bfd7a1698c7e81af25f364d5a91ec5619ea1e2269214436
+10-ATL-W11-01-DC-DNS-Discovery.png,evidence/screenshots/10-ATL-W11-01-DC-DNS-Discovery.png,Retained original bytes,8a07e6142a4f86764ea295792be0a5e12fb95b4008365a9c91bf7d045c6b8659
+11-ATL-W11-01-Domain-Join-Secure-Channel.png,evidence/screenshots/11-ATL-W11-01-Domain-Join-Secure-Channel.png,Retained original bytes,2bf2cb787a7b7d2184e92818e9c43ff4a9a52d9ce55e4af5a82c02d48bcc23e4
+12-ATL-DC01-Windows11-Computer-Object.png,evidence/screenshots/12-ATL-DC01-Windows11-Computer-Object.png,Retained original bytes,c81a0b3f67e15927c67b3188885bc1f571252c191314a9eb1870f72b8ba04acc
+13-CORP-OU-Structure-Workstation-Placement.png,evidence/screenshots/13-CORP-OU-Structure-Workstation-Placement.png,Retained original bytes,97b21375c4fa73bb6e976a657d6a254e42c333b985be0c5f2f59ed5ea8280446
+14-AGDLP-Security-Membership-GUI.png,evidence/screenshots/14-AGDLP-Security-Membership-GUI.png,Retained original bytes,1a030128a3c7aa9692692f1bc08b96b89c0cd6e17ba8cbedf321d7ea8276dfd6
+15-Privileged-Admin-Group-Membership.png,evidence/screenshots/15-Privileged-Admin-Group-Membership.png,Retained original bytes,a304fb87438ceffa7dfd2f1cb524d9fc3f5e0b00a054241a441be72fe52a5d14
+16-Password-Reset-Delegation-ACL.png,evidence/screenshots/16-Password-Reset-Delegation-ACL.png,Retained original bytes,eed692dfd8a481077bea0ca6f670b2f9cc5b86b36bc6a639b575b87c619651a4
+17-Helpdesk-Identity-And-Role.png,evidence/screenshots/17-Helpdesk-Identity-And-Role.png,Retained original bytes,231950d41aaac0deceaba060e9e32eff320241bedf671ca3a80c225dfffe9ab8
+18-Delegated-Password-Reset-Success.png,evidence/screenshots/18-Delegated-Password-Reset-Success.png,Retained original bytes,293258684477ffffed022168a48e0a36756170ea2d18d5d1bda1cf350da6e7a5
+19-Audit-4724-Helpdesk-Password-Reset(2).png,evidence/screenshots/19-Audit-4724-Helpdesk-Password-Reset-2-.png,Retained original bytes,163ccd703b008ffa06fd762cf709bb7d72b98649ad0c8353580b02a6bc8ab536
+20A-Privileged-Effective-Access-Subject.png,evidence/screenshots/20A-Privileged-Effective-Access-Subject.png,Retained original bytes,cbc4b3ccb12aeda62d32f32b1930e0dbbe42a3aa4d8e2f6cfdd3dee0d48a5bb6
+20B-Privileged-Reset-Not-Allowed.png,evidence/screenshots/20B-Privileged-Reset-Not-Allowed.png,Retained original bytes,7dff0edb4a0227fef000bd9bae5716e7fa9a349452dac5d42529fd1dce642ec5
+21-Forced-Password-Change-Verified.png,evidence/screenshots/21-Forced-Password-Change-Verified.png,Retained original bytes,955b2e15cc7d2f09570bdbc331c0ac929da937a8716714b1ac2dd66c24590eba
+22-User-Forced-Password-Change-Prompt.png,evidence/screenshots/22-User-Forced-Password-Change-Prompt.png,Retained original bytes,3a7697227cf6d23c5f91ec60e5fc55cacddf34093c6a062610241bf85e58edb5
+23-Elena-Post-Reset-Identity.png,evidence/screenshots/23-Elena-Post-Reset-Identity.png,Retained original bytes,c9b09ee45d629b3713f86db0081474d5d682aecf2779e5c9a7875376a32cc0b4
+24-Audit-4723-Employee-Password-Change.png,evidence/screenshots/24-Audit-4723-Employee-Password-Change.png,Retained original bytes,a37057ca38f556a8422e26c84f798735549c540be1ac3314d5757edf7283be83
+25A-Service-Account-Authorization.png,evidence/screenshots/25A-Service-Account-Authorization.png,Retained original bytes,03279f08f7d2d56ac83948e393ce9ee5bcaf2cd9967bbf4a48b903bc20591d60
+25B-Service-Account-Nested-Authorization.png,evidence/screenshots/25B-Service-Account-Nested-Authorization.png,Retained original bytes,57276161bdbd9ef9f54a98c81d3d9f64ee77dfdd0b3bed9af62fccec816208c6
+26-Service-Account-Security-Baseline.png,evidence/screenshots/26-Service-Account-Security-Baseline.png,Retained original bytes,5d958805d443c0181c29a72c3c82d44fd73fe7ac6e2f4b885983b9d35fd5cd5b
+27-Service-Account-Interactive-Logon-Denied.png,evidence/screenshots/27-Service-Account-Interactive-Logon-Denied.png,Retained original bytes,fcba3f5f80d11862a25b6082b401692d80c25ec2af9a04cace6e50437d2b403c
+28-Phase1-Identity-Inventory(2).png,evidence/screenshots/28-Phase1-Identity-Inventory-2-.png,Retained original bytes,c873bcf7de4fb8cf96df82ba86312c2f626504519354d1a3b4f358d4c52e1b9f
+29-Identity-Role-Membership-Baseline(2).png,evidence/screenshots/29-Identity-Role-Membership-Baseline-2-.png,Retained original bytes,524cc42c22ea81c0601444035017866552a7ecfb9932091cff5631e2176d7d57
+30A-Permission-Group-Baseline-PowerShell-Error.png,evidence/screenshots/30A-Permission-Group-Baseline-PowerShell-Error.png,Retained original bytes,f319009de24347baceba2f07085f531a081186878325dfc5c22a4dae54f0d492
+30B-Role-to-Permission-Group-Baseline.png,evidence/screenshots/30B-Role-to-Permission-Group-Baseline.png,Retained original bytes,094bcb93b073392f635ce9674aa8081fd111d6036c5b88fdd310313634063a94
+31-Contractor-Preview-Baseline.png,evidence/screenshots/31-Contractor-Preview-Baseline.png,Retained original bytes,1a8b2997db7242a208d40e362bddc728415f94c94bb7bdcc1ce37983a09ad340
+32-Excessive-Privilege-Detected.png,evidence/screenshots/32-Excessive-Privilege-Detected.png,Retained original bytes,8aa6a9efa715b86ef092d5a77ee436aa2a0e05ae3ab43d0b2a39be4dbc93bc2a
+33-Audit-4728-Excessive-Privilege-Added.png,evidence/screenshots/33-Audit-4728-Excessive-Privilege-Added.png,Retained original bytes,3a45129e5ca5ea397fa054730feb386990ba26f4918f2845e336022c991629bc
+34-Excessive-Privilege-Remediated.png,evidence/screenshots/34-Excessive-Privilege-Remediated.png,Retained original bytes,e473c9f6a9fe31739179a642bdb3301c8c823c38f91a3a07942507c80c0662d6
+35-Audit-4729-Excessive-Privilege-Removed.png,evidence/screenshots/35-Audit-4729-Excessive-Privilege-Removed.png,Retained original bytes,e9d9b9bbbee75c4a264c775983e7ee9106cde938e8572eb9b80182ce99f4b0c2
+36-Protected-Users-Empty-Baseline-Domain-Level.png,evidence/screenshots/36-Protected-Users-Empty-Baseline-Domain-Level.png,Retained original bytes,f2cb7e25e465376ec097ca56d91486838eb22f130bc11985438c31899b70ba66
+37-Domain-Admins-Membership-Baseline.png,evidence/screenshots/37-Domain-Admins-Membership-Baseline.png,Retained original bytes,3fe4f0f0b61b3965e5514dc8a9b806a95e37bb1359117bf8313646996ce67821
+38-Protected-Users-Enrollment-and-Logging-Enabled.png,evidence/screenshots/38-Protected-Users-Enrollment-and-Logging-Enabled.png,Retained original bytes,fac235d49d2c29b7e0a2660e51e7b2287726e709b056e4c24ee58bc781e19474
+39-Protected-Admin-Sign-In-AES256-Four-Hour-TGT.png,evidence/screenshots/39-Protected-Admin-Sign-In-AES256-Four-Hour-TGT.png,Retained original bytes,763c3e7a15478f07217d8a458150675cb4d06445c512a4959bda5d808db0abf6
+40-Protected-Admin-AD-User-Lookup-Success.png,evidence/screenshots/40-Protected-Admin-AD-User-Lookup-Success.png,Retained original bytes,3f29e7faa891ce45de4845e8310e0dcc191b5c2d1684be826796bb682780a928
+32-Excessive-Privilege-Detected.png,evidence/screenshots/32-Excessive-Privilege-Detected.png,Byte-identical duplicate; consolidated,8aa6a9efa715b86ef092d5a77ee436aa2a0e05ae3ab43d0b2a39be4dbc93bc2a
+33-Audit-4728-Excessive-Privilege-Added.png,evidence/screenshots/33-Audit-4728-Excessive-Privilege-Added.png,Byte-identical duplicate; consolidated,3a45129e5ca5ea397fa054730feb386990ba26f4918f2845e336022c991629bc
+34-Excessive-Privilege-Remediated.png,evidence/screenshots/34-Excessive-Privilege-Remediated.png,Byte-identical duplicate; consolidated,e473c9f6a9fe31739179a642bdb3301c8c823c38f91a3a07942507c80c0662d6
+35-Audit-4729-Excessive-Privilege-Removed.png,evidence/screenshots/35-Audit-4729-Excessive-Privilege-Removed.png,Byte-identical duplicate; consolidated,e9d9b9bbbee75c4a264c775983e7ee9106cde938e8572eb9b80182ce99f4b0c2
+AD Users and computer for corp.lab.png,evidence/supplemental/AD-Users-and-computer-for-corp.lab.png,Retained original bytes,2043aa016430bb08e6e855142187932fc8929c55f6a051661e603d8c9835efdf
+29-Identity-Role-Membership-Baseline.png,evidence/screenshots/29-Identity-Role-Membership-Baseline-2-.png,Byte-identical duplicate; consolidated,524cc42c22ea81c0601444035017866552a7ecfb9932091cff5631e2176d7d57
+30- permissio-group-baseline powershell error(1).png,evidence/screenshots/30A-Permission-Group-Baseline-PowerShell-Error.png,Byte-identical duplicate; consolidated,f319009de24347baceba2f07085f531a081186878325dfc5c22a4dae54f0d492
+30- permissio-group-baseline powershell error.png,evidence/screenshots/30A-Permission-Group-Baseline-PowerShell-Error.png,Byte-identical duplicate; consolidated,f319009de24347baceba2f07085f531a081186878325dfc5c22a4dae54f0d492
+30-Role-to-Permission-Group-Baseline.png,evidence/screenshots/30B-Role-to-Permission-Group-Baseline.png,Byte-identical duplicate; consolidated,094bcb93b073392f635ce9674aa8081fd111d6036c5b88fdd310313634063a94
+AD CORP OU Created.png,evidence/supplemental/AD-CORP-OU-Created.png,Retained original bytes,c70823270166055ab4a13d5a59e5f39138b66329f245c0a9867c8c554df2d0d1
+screenshot of ATL-W11-01 STALLED.png,evidence/supplemental/screenshot-of-ATL-W11-01-STALLED.png,Retained original bytes,cb2f013ccabb260daa5ef9a10914e11724084248fdf263804d3de904ccb96d11
